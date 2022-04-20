@@ -1,5 +1,3 @@
-// Lab_8B
-// Programmer: Luke Tascone 
 
 #include <iostream>
 #include <iomanip> 
